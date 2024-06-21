@@ -1,2 +1,7 @@
 nginx
 openjdk:8-jdk-alpine
+redis:7
+rabbitmq:3
+mysql:8.0.29
+onlyoffice/opensearch
+
